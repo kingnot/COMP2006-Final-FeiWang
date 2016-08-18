@@ -1,3 +1,9 @@
+/**
+ * Authors & Student Number: Fei Wang 200278460
+ * Date Modified: 08-18-2016
+ * File Description: This is the Model of data for Genre class
+ */
+
 namespace COMP2006_Final_FeiWang.Models
 {
     using System;

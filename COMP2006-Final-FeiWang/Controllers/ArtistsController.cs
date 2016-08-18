@@ -1,4 +1,10 @@
-﻿using System;
+﻿/**
+ * Authors & Student Number: Fei Wang 200278460
+ * Date Modified: 08-18-2016
+ * File Description: This is the Artists Controller for Artist List and Artist Detail
+ */
+
+using System;
 using System.Collections.Generic;
 using System.Data;
 using System.Data.Entity;

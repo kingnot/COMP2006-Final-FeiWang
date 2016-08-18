@@ -1,4 +1,10 @@
-﻿using System;
+﻿/**
+ * Authors & Student Number: Fei Wang 200278460
+ * Date Modified: 08-18-2016
+ * File Description: This is the Home Controller for Home, About and Contact views
+ */
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
